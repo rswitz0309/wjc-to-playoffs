@@ -1,7 +1,7 @@
 # WJC and NHL Playoffs Analysis
 A machine learning and analytics project examining the relationship between U20 IIHF World Junior Championship performance and NHL playoff outcomes.
 ## Datasets
-World Junior player performance data was obtained from QuantHockey.com
+World Junior player performance data was obtained from QuantHockey.com  
 Team and player regular season performance and playoff player performance data was obtained from hockey-reference.com
 ## Methodology
 The analysis was conducted using Python and various libraries for data manipulation, visualization, and modeling:
