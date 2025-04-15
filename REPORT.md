@@ -36,9 +36,9 @@ This report investigates the potential relationship between a player’s perform
 
 - Correlation heatmaps to assess linear relationships
 - Visualizations:
-  - [Relationship between WJC PPG and NHL playoff PPG](visuals/![wjc_po])
+  - [Relationship between WJC PPG and NHL playoff PPG](visuals/wjc_po.png)
 )
-  - [Relationship between regular season PPG and playoff PPG](visuals/![season_po]
+  - [Relationship between regular season PPG and playoff PPG](visuals/season_po.png)
 
 **Key Observations:**
 - Players with high regular season PPG tended to maintain higher playoff performance.
@@ -55,7 +55,7 @@ This report investigates the potential relationship between a player’s perform
 - **Independent Variables:** WJC PPG, Regular Season PPG, WJC GP, Team PTS%, Playoff GP
 
 **Model Summary:**
-[OLS regression summary](visuals/![ols_regression_summary])
+[OLS regression summary](visuals/ols_regression_summary.pdf)
 - R²: 0.487
 - Significant variables (p < 0.05): Regular Season PPG, Playoff GP
 - Regular Season PPG Coefficient: 0.8068, p-value: 0.0000
