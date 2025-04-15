@@ -37,7 +37,6 @@ This report investigates the potential relationship between a player’s perform
 - Correlation heatmaps to assess linear relationships
 - Visualizations:
   - [Relationship between WJC PPG and NHL playoff PPG](visuals/wjc_po.png)
-)
   - [Relationship between regular season PPG and playoff PPG](visuals/season_po.png)
 
 **Key Observations:**
