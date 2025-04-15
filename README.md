@@ -22,4 +22,5 @@ The OLS Regression model showed limited predictive power using WJC stats alone b
 The Random Forest model suggested that regular season performance metrics were far more influential.
 World Junior performance, while not a strong standalone predictor, may still serve as a complementary variable in broader predictive models.
 ## Conclusion
-It was determined that World Junior player performance should not be considered a strong indicator of determining future NHL playoff performance on its own, however, it may help to generate predictions along with other significant variables such as regular season PPG.
+It was determined that World Junior player performance should not be considered a strong indicator of determining future NHL playoff performance on its own, however, it may help to generate predictions along with other significant variables such as regular season PPG.  
+[Click here to view the full report](REPORT.md)
