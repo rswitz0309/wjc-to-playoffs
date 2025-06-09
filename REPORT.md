@@ -98,7 +98,7 @@ F                0.000420
 ## 6. Conclusion
 
 - WJC performance alone is a weak predictor of NHL playoff success.
-- Regular season performance and draft position are stronger and more reliable predictors.
+- Regular season performance is stronger and a more reliable predictor.
 - WJC stats may still offer some value when used alongside other indicators.
 
 ---
